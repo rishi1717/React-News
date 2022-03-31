@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 8296,
+    "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Spotify buys naming rights on FC Barcelona’s massive stadium",
+            "description": "Spotify has purchased the naming rights to the iconic soccer stadium where FC Barcelona plays its home games, Camp Nou. As part of the partnership, the stadium will be rebranded as Spotify Camp Nou.",
+            "url": "https://www.theverge.com/2022/3/15/22979943/spotify-camp-nou-barcelona-stadium",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/6Uk2hcGVbd4Lac4N-UdhdohAtbk=/0x182:2032x1246/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23318946/spotify_camp_nou_soccer_stadium.png",
+            "publishedAt": "2022-03-15T22:57:31Z",
+            "content": "Camp Nou will be rebranded as Spotify Camp Nou\r\nSpotifys name will be featured on FC Barcelonas jerseys for the next four seasons.\r\nImage by FC Barcelona/Spotify\r\nCamp Nou, one of the most iconic soc… [+2059 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Andrew Keh",
+            "title": "U.S. Men’s Soccer Team Clinches World Cup Berth",
+            "description": "Five years after a calamitous night cost them a World Cup berth, the United States took the field in Costa Rica and, by merely avoiding a calamitous defeat, earned a place in Qatar.",
+            "url": "https://www.nytimes.com/2022/03/30/sports/usmnt-costa-rica-world-cup-qualifying.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/03/30/multimedia/30soccer-usmnt/30soccer-usmnt-facebookJumbo.jpg",
+            "publishedAt": "2022-03-31T03:18:13Z",
+            "content": "The maturation of his young players would become the predominant plotline of the competition. And the lessons, in that regard, kept coming.\r\nOnly four members of the current roster Christian Pulisic,… [+1136 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Rory Smith",
+            "title": "Messi, Ronaldo and Soccer’s Golden Sunset",
+            "description": "This year’s World Cup will be the last for some household names, meaning soccer will go into the tournament with one elite and emerge with quite another.",
+            "url": "https://www.nytimes.com/2022/03/25/sports/soccer/messi-ronaldo-world-cup.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/03/25/multimedia/25rory-ronaldo/25rory-ronaldo-facebookJumbo.jpg",
+            "publishedAt": "2022-03-25T16:08:07Z",
+            "content": "This World Cup will extinguish the light of a whole galaxy. It will, most likely, be the final time Luka Modric, Thiago Silva, Daniel Alves, Manuel Neuer, Thomas Müller, Jordi Alba, Ángel Di María, L… [+2208 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Kurt Streeter",
+            "title": "Should Russian Athletes Be Barred From Competition?",
+            "description": "Our columnist examines whether the soft power of sport should be wielded against Russia, penalizing athletes with little or no say in its actions.",
+            "url": "https://www.nytimes.com/2022/03/14/sports/russian-athletes-banned.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/03/14/sports/14streeter-sot-print/14streeter-sot1-facebookJumbo.jpg",
+            "publishedAt": "2022-03-14T09:47:26Z",
+            "content": "But the bans are not complete.\r\nMany Russian athletes continue to prosper right in front of us. Individual soccer players can still participate in European soccer leagues. Ovechkin leads a robust Rus… [+912 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Abramovich puts Chelsea soccer club up for sale - Reuters",
+            "description": "Russian businessman Roman Abramovich said on Wednesday he would sell Chelsea Football Club, 19 years after buying it and setting the team on a path to sporting glory, and promised to donate money from the sale to help victims of the war in Ukraine.",
+            "url": "https://www.reuters.com/video/watch/idsYXm?now=true",
+            "urlToImage": "https://ajo.prod.reuters.tv/api/v2/img/62200341e4b085d396fd4d2b-1646265153291?location=LANDSCAPE",
+            "publishedAt": "2022-03-03T00:18:21Z",
+            "content": "Posted \r\nRussian businessman Roman Abramovich said on Wednesday he would sell Chelsea Football Club, 19 years after buying it and setting the team on a path to sporting glory, and promised to donate … [+57 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Brawl during soccer match in Mexico leaves 22 injured - Reuters",
+            "description": "Mexican authorities said at least 22 people have been injured in a brawl on Saturday when soccer fans stormed the field during a top flight match between mid-table Queretaro and last year's Liga MX champions Atlas.",
+            "url": "https://www.reuters.com/lifestyle/sports/brawl-during-soccer-match-mexico-leaves-22-injured-2022-03-06/",
+            "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=77",
+            "publishedAt": "2022-03-06T05:13:00Z",
+            "content": "MEXICO CITY, March 5 (Reuters) - Mexican authorities said at least 22 people have been injured in a brawl on Saturday when soccer fans stormed the field during a top flight match between mid-table Qu… [+1077 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Three people in critical condition after Mexican soccer brawl - Reuters",
+            "description": "Three people were in critical condition on Sunday after violent clashes at a soccer match in the Mexican state of Queretaro left more than two dozen people hospitalized, and officials said they would prosecute some assailants for attempted murder.",
+            "url": "https://www.reuters.com/lifestyle/sports/three-people-critical-condition-after-mexican-soccer-brawl-2022-03-06/",
+            "urlToImage": "https://www.reuters.com/resizer/wr6ml8kFo1KKxAuX_vrgKMu8Lfo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VJ2HG5EAURNRDC4PNN4SRUSEXE.jpg",
+            "publishedAt": "2022-03-06T19:08:00Z",
+            "content": "MEXICO CITY, March 6 (Reuters) - Three people were in critical condition on Sunday after violent clashes at a soccer match in the Mexican state of Queretaro left more than two dozen people hospitaliz… [+2026 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Rory Smith",
+            "title": "Poland Refused to Play Russia Once. It May Have to Do So Again.",
+            "description": "Poland’s stars cornered FIFA by threatening to boycott a World Cup qualifier. Now, as Russia appeals the decision, Robert Lewandowski, Wojciech Szczesny and their teammates may have to double down.",
+            "url": "https://www.nytimes.com/2022/03/14/sports/soccer/poland-russia-fifa.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/03/14/multimedia/14soccer-poland2/14soccer-poland2-facebookJumbo.jpg",
+            "publishedAt": "2022-03-14T15:07:57Z",
+            "content": "Jordan Henderson, the Liverpool captain, spearheaded a campaign to help raise donations for the National Health Service at the height of the pandemic, after crude attempts by lawmakers in Britain to … [+1284 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Www.tsn.ca"
+            },
+            "author": "The Canadian Press",
+            "title": "Canadian men's soccer team earns standing ovation during Raptors game - TSN",
+            "description": "<ol><li>Canadian men's soccer team earns standing ovation during Raptors game  TSN\r\n</li><li>Emotional win for Canadian soccer fans  CityNews\r\n</li><li>Canada’s soccer prayers have been answered. Now the fun begins  Toronto Star\r\n</li><li>Canadian men's socce…",
+            "url": "https://www.tsn.ca/canadian-men-s-soccer-team-earns-standing-ovation-during-raptors-game-1.1777837",
+            "urlToImage": "https://www.tsn.ca/polopoly_fs/1.1777839!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/canadian-men-s-soccer-team-at-raptors-game.jpg",
+            "publishedAt": "2022-03-29T00:27:03Z",
+            "content": "TORONTO Canada's World Cup-bound men's soccer team earned a standing ovation during the Toronto Raptors game Monday.\r\nTwenty-three players took centre-court with high-fives from The Raptor mascot fol… [+451 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "Charlie Wacholz",
+            "title": "Nock is Rocket League with bows and arrows, out now on Meta Quest",
+            "description": "Nock, the latest game from the developers behind Half + Half, promises a unique spin on soccer",
+            "url": "https://www.androidcentral.com/news/nock-launch-quest-2",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/dQhsRNsWWLn2kVpMPjCdm5-1200-80.jpg",
+            "publishedAt": "2022-03-12T01:53:47Z",
+            "content": "Nock is the latest game from Normal., the self-described, \"community of creative misfits, artists, engineers, and storytellers working at the intersection of design and technology,\" behind the creati… [+1450 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Oliver Milman",
+            "title": "Bees can play soccer – 10 little-known facts about insects",
+            "description": "If the climate crisis leads to an insect die-off, human life will be less livable – and more boringThe labyrinthine world of insects is in deep trouble. Scientists have uncovered startling declines in their populations , with the United Nations estimating tha…",
+            "url": "https://amp.theguardian.com/environment/2022/mar/01/insect-crisis-book-climate-bees-moths-roaches-flies-facts",
+            "urlToImage": "https://i.guim.co.uk/img/media/e8df87d5fe6290bfcdddd9faa8264f33d34c70ce/0_134_3508_2105/master/3508.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ca864f30634bac7226ad100dfafef540",
+            "publishedAt": "2022-03-01T10:00:11Z",
+            "content": "The labyrinthine world of insects is in deep trouble. Scientists have uncovered startling declines in their populations , with the United Nations estimating that half a million species could be lost … [+8464 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Rory Smith",
+            "title": "The Artist Who Painted a City",
+            "description": "As Jesse Marsch takes over Leeds United, he faces the difficult task of replacing Marcelo Bielsa, who was equal parts coach and icon.",
+            "url": "https://www.nytimes.com/2022/03/04/sports/soccer/marcelo-bielsa-leeds-united.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/03/04/multimedia/04rory-bielsa3/04rory-bielsa3-facebookJumbo.jpg",
+            "publishedAt": "2022-03-04T21:30:08Z",
+            "content": "Last weeks column on soccers relationship with money, and with Russia, elicited quite the flurry of responses. Many of them were kind, and as such very difficult for a British person to mention witho… [+2019 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "The Associated Press",
+            "title": "Stanford women's soccer player Katie Meyer has died at 22",
+            "description": "The goalkeeper memorably led the Cardinal to victory in the 2019 NCAA College Cup championship game.",
+            "url": "https://www.npr.org/2022/03/03/1084368278/stanford-women-soccer-player-katie-meyer-dies",
+            "urlToImage": "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400",
+            "publishedAt": "2022-03-03T22:24:28Z",
+            "content": "STANFORD, Calif. Stanford goalkeeper Katie Meyer, who memorably led the Cardinal to victory in the 2019 NCAA College Cup championship game, has died. She was 22.\r\nThe cause of death was not released.… [+975 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "David Beckham hands over Instagram account to Kharkiv doctor - Reuters",
+            "description": "Former England soccer captain David Beckham handed over his Instagram account on Sunday to a doctor helping women give birth in the eastern Ukrainian city of Kharkiv.",
+            "url": "https://www.reuters.com/lifestyle/sports/david-beckham-hands-over-instagram-account-kharkiv-doctor-2022-03-21/",
+            "urlToImage": "https://www.reuters.com/resizer/gblPp6vVq602YLBziBLA-K_6xxA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZKALUP2GYFMF5BAGR4DAIBX4HI.jpg",
+            "publishedAt": "2022-03-21T11:44:00Z",
+            "content": "LONDON, March 21 (Reuters) - Former England soccer captain David Beckham handed over his Instagram account on Sunday to a doctor helping women give birth in the eastern Ukrainian city of Kharkiv.\r\nBe… [+1898 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Former NLL, NHL executive Berman named commissioner of NWSL - Reuters.com",
+            "description": "The National Women's Soccer League (NWSL) named former National Lacrosse League and National Hockey League executive Jessica Berman its new commissioner on Wednesday.",
+            "url": "https://www.reuters.com/lifestyle/sports/former-nll-nhl-executive-berman-named-commissioner-nwsl-2022-03-09/",
+            "urlToImage": "https://www.reuters.com/resizer/8S57nQ6-bIlM789d27S2rFe87CM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/M4DSXBJSCNL45ADHIB4CQBHKUU.jpg",
+            "publishedAt": "2022-03-09T17:38:00Z",
+            "content": "March 9 (Reuters) - The National Women's Soccer League (NWSL) named former National Lacrosse League and National Hockey League executive Jessica Berman its new commissioner on Wednesday.\r\nBerman assu… [+1218 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Factbox: List of countries that have refused to play against Russia - Reuters",
+            "description": "Following is a list of national football associations that have announced they will not play soccer matches against Russia, in the wake of Russia's invasion of Ukraine.",
+            "url": "https://www.reuters.com/lifestyle/sports/list-countries-that-have-refused-play-against-russia-2022-03-01/",
+            "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=75",
+            "publishedAt": "2022-03-01T07:22:00Z",
+            "content": "March 1 (Reuters) - Following is a list of national football associations that have announced they will not play soccer matches against Russia, in the wake of Russia's invasion of Ukraine.\r\nENGLISH F… [+3045 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "U.S. forward Aaronson to miss World Cup qualifiers through injury - Reuters",
+            "description": "United States forward Brenden Aaronson will miss their final three matches of World Cup qualifying with a knee injury, U.S. Soccer said on Monday.",
+            "url": "https://www.reuters.com/lifestyle/sports/us-forward-aaronson-miss-world-cup-qualifiers-through-injury-2022-03-21/",
+            "urlToImage": "https://www.reuters.com/resizer/4LiXONevaPA8ZW10mVsJpNof-C4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3YDMQCT7HZO6NHATNFEH6G5LOI.jpg",
+            "publishedAt": "2022-03-21T22:50:00Z",
+            "content": "March 21 (Reuters) - United States forward Brenden Aaronson will miss their final three matches of World Cup qualifying with a knee injury, U.S. Soccer said on Monday.\r\nAaronson, the only U.S. player… [+1166 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Ukrainian female soccer pros find new training ground in Germany - Reuters UK",
+            "description": "A semi-professional female soccer team that fled the war in Ukraine has found shelter and a new training ground at the German Bundesliga club 1.FC Cologne.",
+            "url": "https://www.reuters.com/world/ukrainian-female-soccer-pros-find-new-training-ground-germany-2022-03-24/",
+            "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=79",
+            "publishedAt": "2022-03-24T02:06:00Z",
+            "content": "BERLIN, March 24 (Reuters) - A semi-professional female soccer team that fled the war in Ukraine has found shelter and a new training ground at the German Bundesliga club 1.FC Cologne.\r\nThe team will… [+1754 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "UK minister: We have tolerated investment in soccer by Russian kleptocrats for too long - Reuters UK",
+            "description": "Britain has tolerated the investment of Russian kleptocrats in its soccer clubs for too long, British sports and culture minister Nadine Dorries told parliament on Thursday.",
+            "url": "https://www.reuters.com/world/uk/uk-minister-we-have-tolerated-investment-soccer-by-russian-kleptocrats-too-long-2022-03-03/",
+            "urlToImage": "https://www.reuters.com/resizer/5LFZjVJEIn8dirW3_MLkRujdH4Q=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TLZQ545555NSVOP2FQAJTYGEZE.jpg",
+            "publishedAt": "2022-03-03T12:06:00Z",
+            "content": "LONDON, March 3 (Reuters) - Britain has tolerated the investment of Russian kleptocrats in its soccer clubs for too long, British sports and culture minister Nadine Dorries told parliament on Thursda… [+631 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Czech FA refuses to play World Cup qualifier with Russia - Reuters",
+            "description": "The Czech Republic will not play a potential soccer World Cup qualifier against Russia following their invasion of Ukraine, the Czech FA said on Sunday.",
+            "url": "https://www.reuters.com/lifestyle/sports/czech-fa-refuses-play-world-cup-qualifier-with-russia-2022-02-27/",
+            "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=75",
+            "publishedAt": "2022-02-27T11:07:00Z",
+            "content": "Feb 27 (Reuters) - The Czech Republic will not play a potential soccer World Cup qualifier against Russia following their invasion of Ukraine, the Czech FA said on Sunday.\r\nThe Czech ruling body is t… [+1246 chars]"
+        }
+    ]
+}
