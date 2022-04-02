@@ -8,7 +8,7 @@ export default class App extends Component {
 		return (
 			<div className="container-fluid text-center">
 				<Navbar />
-        <News />
+				<News />
 			</div>
 		)
 	}
